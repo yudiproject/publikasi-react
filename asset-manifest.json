@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yudiproject.github.io/publikasi-react/static/css/main.073c9b0a.css",
+    "main.js": "/yudiproject.github.io/publikasi-react/static/js/main.c6c546c4.js",
+    "static/js/787.d1774010.chunk.js": "/yudiproject.github.io/publikasi-react/static/js/787.d1774010.chunk.js",
+    "static/media/logo.svg": "/yudiproject.github.io/publikasi-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yudiproject.github.io/publikasi-react/index.html",
+    "main.073c9b0a.css.map": "/yudiproject.github.io/publikasi-react/static/css/main.073c9b0a.css.map",
+    "main.c6c546c4.js.map": "/yudiproject.github.io/publikasi-react/static/js/main.c6c546c4.js.map",
+    "787.d1774010.chunk.js.map": "/yudiproject.github.io/publikasi-react/static/js/787.d1774010.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c6c546c4.js"
+  ]
+}
